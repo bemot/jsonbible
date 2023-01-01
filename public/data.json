@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Daniel",
+    "email": "daniel@gmail.com",
+    "post": "I love football",
+    "votes": 5
+  },
+
+  {
+    "id": 2,
+    "name": "Sasha Bemotoff",
+    "email": "bemotic@gmail.com",
+    "post": "I love Vera",
+    "votes": 111
+  }
+   
+]

@@ -1,0 +1,7 @@
+const BIBLE = {
+  LOAD: "REQUEST_BIBLES_DATA",
+  LOAD_SUCCESS: "RECEIVE_BIBLES_DATA",
+};
+
+export default BIBLE;
+
